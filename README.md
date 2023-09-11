@@ -1,11 +1,11 @@
 [![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lathitha Kunana</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate frontend web/mobile developer and Ui designer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathithakunana&label=Profile%20views&color=0e75b6&style=flat" alt="lathithakunana" /> </p>
 
-- 🔭 I’m currently working on [updating my portfolio with my recent projects](https://github.com/LathithaKunana/Pink-Diaries.git)
+- 🔭 I’m currently working on [updating my portfolio with my recent projects](https://github.com/LathithaKunana/Final-Portfolio)
 
 - 🌱 I’m currently learning **TypeScript with React Native CLI**
 
