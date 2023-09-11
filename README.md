@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript with React Native CLI**
 
-- 👨‍💻 All of my projects are available at [https://lathitha.netlify.app/](https://lathitha.netlify.app/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://lathitha-kunana.netlify.app/)
 
 - 💬 Ask me about **Ui design, Javascript, React native**
 
