@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathithakunana&label=Profile%20views&color=0e75b6&style=flat" alt="lathithakunana" /> </p>
 
-- 🔭 I’m currently working on [TeenCare SA mobile app using react native](https://github.com/LathithaKunana/Pink-Diaries.git)
+- 🔭 I’m currently working on [updating my portfolio with my recent projects](https://github.com/LathithaKunana/Pink-Diaries.git)
 
-- 🌱 I’m currently learning **Flutter, Android Studio, JavaScript**
+- 🌱 I’m currently learning **TypeScript with React Native CLI**
 
 - 👨‍💻 All of my projects are available at [https://lathitha.netlify.app/](https://lathitha.netlify.app/)
 
-- 💬 Ask me about **Figma,HTML5 & CSS**
+- 💬 Ask me about **Ui design, Javascript, React native**
 
-- 📫 How to reach me **lathitha.kunana@younglings.africa**
+- 📫 How to reach me **lathikunanalk@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFYp9rvARU/sp9UuVpzJU-xMqGqcnxrsA/view?utm_content=DAFYp9rvARU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFYp9rvARU/sp9UuVpzJU-xMqGqcnxrsA/view?utm_content=DAFYp9rvARU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **I love joking around and I believe Goku is better then every anime character**
+- ⚡ Fun fact **I love getting errors😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
