@@ -11,12 +11,10 @@
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://lathitha-kunana.netlify.app/)
 
-- 💬 Ask me about **Ui design, Javascript, React native**
+- 💬 Ask me about **Ui design, Javascript, React native, React js**
 
 - 📫 How to reach me **lathikunanalk@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFYp9rvARU/sp9UuVpzJU-xMqGqcnxrsA/view?utm_content=DAFYp9rvARU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFYp9rvARU/sp9UuVpzJU-xMqGqcnxrsA/view?utm_content=DAFYp9rvARU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
+  
 - ⚡ Fun fact **I love getting errors😂**
 
 <h3 align="left">Connect with me:</h3>
