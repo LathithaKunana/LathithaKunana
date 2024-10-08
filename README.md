@@ -1,21 +1,21 @@
 [![MasterHead](https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lathitha Kunana</h1>
-<h3 align="center">A passionate frontend web/mobile developer and Ui designer from South Africa</h3>
+<h3 align="center">A passionate Software developer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lathithakunana&label=Profile%20views&color=0e75b6&style=flat" alt="lathithakunana" /> </p>
 
-- 🔭 I’m currently working on [updating my portfolio with my recent projects](https://github.com/LathithaKunana/Final-Portfolio)
+- 🔭 I’m currently working on [a fullstack web app that has products like verifying phone numbers, emails and Decentrilised Identity services](https://github.com/LathithaKunana/Final-Portfolio)
 
 - 🌱 I’m currently learning **TypeScript with React Native CLI**
 
-- 👨‍💻 All of my projects are available in my [Portfolio](https://lathitha-kunana.netlify.app/)
+- 👨‍💻 All of my projects are available in my [Portfolio, but it's outdated now "updating soon"](https://lathitha-kunana.netlify.app/)
 
-- 💬 Ask me about **Ui design, Javascript, React native, React js**
+- 💬 Ask me about **node js, express, Javascript, React native, React js, mongoDB, firebase, tracardi, digital ocean, kubernetes, docker compose, Kompose, google cloud, little bit of AWS 😂 and API integration**
 
 - 📫 How to reach me **lathikunanalk@gmail.com**
   
-- ⚡ Fun fact **I love getting errors😂**
+- ⚡ Fun fact **I love getting errors😂, its makes things exiting, sometimes it gets too stressfull though**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
